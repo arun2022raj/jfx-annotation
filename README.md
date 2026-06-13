@@ -51,4 +51,8 @@ Use on user POJOs (compile scope):
 
 ## License
 
-Apache License 2.0 — see [LICENSE](../LICENSE) at the JFX repo root.
+Licensed under the [Apache License, Version 2.0](LICENSE).
+
+## Security
+
+See [SECURITY.md](SECURITY.md) for how to report vulnerabilities.
