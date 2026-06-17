@@ -43,7 +43,7 @@ Use on user POJOs (compile scope):
 
 | Annotation | Purpose |
 |------------|---------|
-| `@JfxRoot("Interface")` | Root `@Tag` in `.jfx` file |
+| `@JfxRoot("ApiSpec")` | Root `@Tag` in `.jfx` file |
 | `@JfxNode("Field")` | Child `@Tag` name |
 | `@JfxProperty("mapped_name")` | Property key override |
 | `@JfxArgument` | Field for `("…")` argument |
