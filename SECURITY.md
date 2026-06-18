@@ -7,7 +7,8 @@
 | `0.1.x`        | Yes       |
 | Older / forked | No        |
 
-Current development version: `0.1.0-SNAPSHOT` (`jfx-annotations` module).
+Current development version: `0.1.1-SNAPSHOT` (`jfx-annotations` module).  
+Maven Central release: `in.co.vstack:jfx-annotations:0.1.0`.
 
 ## Reporting a vulnerability
 

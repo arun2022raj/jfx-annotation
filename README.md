@@ -23,17 +23,15 @@ cd jfx-annotations-maven-project
 mvn clean install
 ```
 
-Produces `com.vstack.jfx:jfx-annotations:0.1.0-SNAPSHOT` in `~/.m2`.
+Produces `in.co.vstack:jfx-annotations:0.1.1-SNAPSHOT` locally (Maven Central release: `0.1.0`).
 
-## Maven dependency
-
-Use on user POJOs (compile scope):
+## Maven dependency (Maven Central)
 
 ```xml
 <dependency>
-    <groupId>com.vstack.jfx</groupId>
+    <groupId>in.co.vstack</groupId>
     <artifactId>jfx-annotations</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
 </dependency>
 ```
 
